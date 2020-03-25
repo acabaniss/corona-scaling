@@ -18,9 +18,6 @@ dependencies:
   - icu=58.2=ha66f8fd_1
   - importlib_metadata=1.5.0=py37_0
   - intel-openmp=2020.0=166
-  - ipykernel=5.1.4=py37h39e3cac_0
-  - ipython=7.13.0=py37h5ca1d4c_0
-  - ipython_genutils=0.2.0=py37_0
   - jedi=0.16.0=py37_1
   - jinja2=2.11.1=py_0
   - jpeg=9b=hb83a4c4_2
@@ -44,9 +41,7 @@ dependencies:
   - mkl_fft=1.0.15=py37h14836fe_0
   - mkl_random=1.1.0=py37h675688f_0
   - msys2-conda-epoch=20160418=1
-  - nbconvert=5.6.1=py37_0
   - nbformat=5.0.4=py_0
-  - notebook=6.0.3=py37_0
   - numpy=1.18.1=py37h93ca92e_0
   - numpy-base=1.18.1=py37hc3f5095_1
   - openssl=1.1.1e=he774522_0
@@ -62,7 +57,6 @@ dependencies:
   - pyparsing=2.4.6=py_0
   - pyqt=5.9.2=py37h6538335_2
   - pyrsistent=0.15.7=py37he774522_0
-  - python=3.7.7=h60c2a47_0_cpython
   - python-dateutil=2.8.1=py_0
   - pytz=2019.3=py_0
   - pyzmq=18.1.1=py37ha925a31_0
