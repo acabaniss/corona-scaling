@@ -65,8 +65,6 @@ dependencies:
   - python=3.7.7=h60c2a47_0_cpython
   - python-dateutil=2.8.1=py_0
   - pytz=2019.3=py_0
-  - pywin32=227=py37he774522_1
-  - pywinpty=0.5.7=py37_0
   - pyzmq=18.1.1=py37ha925a31_0
   - qt=5.9.7=vc14h73c81de_0
   - scipy=1.4.1=py37h9439919_0
@@ -84,8 +82,6 @@ dependencies:
   - wcwidth=0.1.8=py_0
   - webencodings=0.5.1=py37_1
   - wheel=0.34.2=py37_0
-  - wincertstore=0.2=py37_0
-  - winpty=0.4.3=4
   - xlrd=1.2.0=py37_0
   - zeromq=4.3.1=h33f27b4_3
   - zipp=2.2.0=py_0
